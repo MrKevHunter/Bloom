@@ -31,7 +31,7 @@ abbey
 abbeys
 abbot
 abbots
-Abbott 
+Abbott
 abbreviate
 abbreviated
 abbreviates
